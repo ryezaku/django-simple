@@ -1,0 +1,6 @@
+<form method="POST" action="{% url  'keyin_score' %}" enctype ="multipart/form_data">
+{% csrf_token %}
+{{form}}
+
+<button>Add</button>
+</form>

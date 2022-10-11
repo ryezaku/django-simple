@@ -1,0 +1,5 @@
+django
+django-admin
+django-view-table
+psycopg
+psycopg2
